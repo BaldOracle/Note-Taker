@@ -12,8 +12,6 @@ To install the application, clone the repository and run npm install to install 
 
 ## Usage
 
-To start the application, run npm start and navigate to http://localhost:3001 in your web browser.
-
 To create a new note, click the pencil icon in the top-right corner of the page. Enter a title and text for your note and click the save icon.
 
 To view a saved note, click on the note in the left-hand column. To delete a note, click the trash can icon next to the note in the left-hand column. 
@@ -47,3 +45,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+![screenshot](./Assets/Note-taker-home-page.jpg)
+![screenshot](./Assets/Note-taker-input.jpg)
