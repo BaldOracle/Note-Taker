@@ -45,5 +45,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+To learn more, visit [website](https://peaceful-badlands-78489.herokuapp.com/notes).
+
 ![screenshot](./Assets/Note-taker-home-page.jpg)
 ![screenshot](./Assets/Note-taker-input.jpg)
